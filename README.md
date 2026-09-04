@@ -8,7 +8,6 @@
 ![Responsible ML](https://img.shields.io/badge/Responsible%20ML-Leakage%20Analysis-green)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Status](https://img.shields.io/badge/Status-Educational%20ML%20Project-purple)
-[![CI](https://github.com/AmirhosseinHonardoust/Fake-News-Detector/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/AmirhosseinHonardoust/Fake-News-Detector/actions/workflows/ci.yml)
 
 </div>
 
@@ -586,13 +585,8 @@ Potential next improvements:
 - Ruff
 - GitHub Actions
 
----
-
-## Author
-
-**Amir Honardoust**
-
-GitHub: [@AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
+GitHub: [@harshsahu01](https://github.com/harshsahu01
+)
 
 ---
 
